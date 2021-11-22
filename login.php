@@ -1,7 +1,7 @@
 <?php include("layouts/top.php"); ?>
 
 <!-- login page -->
-<!-- coding: Fabian Isaza Cifuentes -->
+<!-- coding: Fabian -->
 			
 	<style>
 		*{margin:0px;padding:0px;
