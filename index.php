@@ -3,10 +3,7 @@
 <?php include("layouts/header.php"); ?>
 
 <!-- index page -->
-<!-- coding: Xianhgui Guo (Aaron) -->
-<!-- coding: Fabian Isaza Cifuentes -->
-<!-- coding: Agata Konopka -->
-<!-- coding: Steve Muir -->
+<!-- coding: -->
 
 <section class="brandingContainer">
 	<div><img src="images/kv1.jpg" alt="Branding Photo"></div>
