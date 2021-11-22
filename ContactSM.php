@@ -90,7 +90,7 @@
 	</div>
 </main>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD7jifAGxLV6dRfSGVlFogZxf2pggx0SEg&callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=xxxxxxxxxxxxxxxxxxxxxxxx=initMap" async defer></script>
 <script type="text/javascript">
    
    function initMap() {
