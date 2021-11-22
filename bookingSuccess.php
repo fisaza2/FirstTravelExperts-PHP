@@ -3,7 +3,7 @@
 <?php include("layouts/header.php"); ?>
 
 <!-- booking successful -->
-<!-- coding: Fabian -->
+<!-- coding: Fisaza2 -->
 
 <section class="brandingContainer">
 	<div><img src="images/kv1.jpg" alt="Branding Photo"></div>
