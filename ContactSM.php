@@ -3,7 +3,7 @@
 <?php include("layouts/header.php"); ?>
 
 <!-- contact page -->
-<!-- coding: Fabian  -->
+<!-- coding: Fisaza2  -->
 
 <main class="main indexMain" style="margin-top: 10rem;">
 	<h1>Contact Us</h1>
