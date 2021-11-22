@@ -1,8 +1,8 @@
 <?php require_once("../includes/initialize.php"); ?>
 
 <!-- signpu process page -->
-<!-- coding: Xianhgui Guo (Aaron) -->
-<!-- coding: Fabian Isaza Cifuentes -->
+<!-- coding: Aaron -->
+<!-- coding: FIsaza2 -->
 
 <?php 
 
